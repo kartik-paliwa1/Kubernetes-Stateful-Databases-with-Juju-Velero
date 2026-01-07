@@ -1,6 +1,7 @@
 # Kubernetes-Stateful-Databases-with-Juju-Velero (Single EC2 VM)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/vid_cmk4ewuy600dv04laa9acbxmx/embed?b=1&title=1&a=1&loop=0&t=0&muted=0&wt=1" allowfullscreen allowtransparency></iframe></div>
+
+[![Watch the video — Kubernetes Stateful Databases with Juju & Velero](assets/video-thumbnail.png)](https://www.tella.tv/video/vid_cmk4ewuy600dv04laa9acbxmx)
 
 ## Project Overview
 
