@@ -2,7 +2,7 @@
 
 ## Video Explaination: 
 <a href="https://www.tella.tv/video/vid_cmk4ewuy600dv04laa9acbxmx">
-  <img src="assets/video-thumbnail.png" alt="Watch the video — Kubernetes Stateful Databases with Juju & Velero" width="480" height="270" style="max-width:100%; height:auto;">
+  <img src="assets/video-thumbnail.jpeg" alt="Watch the video — Kubernetes Stateful Databases with Juju & Velero" width="480" height="270" style="max-width:100%; height:auto;">
 </a>
 
 ## Project Overview
