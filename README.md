@@ -1,6 +1,9 @@
 # Kubernetes-Stateful-Databases-with-Juju-Velero (Single EC2 VM)
 
-## 📌 Project Overview
+https://www.tella.tv/video/reliable-databases-on-kubernetes-with-juju-velero-bxmx
+
+
+## Project Overview
 
 This project demonstrates how to run **stateful databases reliably on Kubernetes** using **Juju Kubernetes operators** and implement **backup & disaster recovery** using **Velero**, all on a **single AWS EC2 instance**.
 
